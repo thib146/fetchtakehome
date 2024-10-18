@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchTakeHome</string>
+    <string name="list_id">List ID: %1$s</string>
+    <string name="fetch_id_text">ID: %1$s</string>
+    <string name="fetch_item_listid_text">ListId: %1$s</string>
+    <string name="fetch_item_name_text">Name: %1$s</string>
+</resources>
